@@ -4,6 +4,8 @@ Embed is a system for creating programmes and projects and to track
 changes to entities, such as properties over time and record sensor
 data related to those entities.
 
+For API Documentation https://github.com/MastodonC/kixi.hecuba/blob/master/doc/api.md
+
 # Contents
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
